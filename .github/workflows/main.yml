@@ -5,7 +5,7 @@ on:
     
 jobs:
   build:
-    runs-on: Ubuntu-lastest
+    runs-on: Ubuntu-latest
     steps:
       - name: "Mohamed"
         run: echo "Hello MAV7"
